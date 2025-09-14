@@ -28,7 +28,11 @@
 ### 🔗 SkillSwap (Learning-Based Project)
 - **Description:** A simple peer-to-peer micro-learning platform, built to practice GitHub workflows.  
 - **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages.  
-- **Features:** Beginner-friendly project to showcase collaboration and version control.  
+- **Features:** Beginner-friendly project to showcase collaboration and version control.
+
+
+
+
 
 
 *"The best way to predict the future is to create it."* – Peter Drucker
